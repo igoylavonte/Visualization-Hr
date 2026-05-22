@@ -1,0 +1,63 @@
+# Dataset
+This HR Visualization dataset contains employee information used to analyze workforce performance, employee demographics, and company productivity.
+
+The dataset includes:
+
+- Employee ID
+- Employee Name
+- Department
+- Job Role
+- Branch / Location
+- Hire Date
+- Age
+- Gender
+- Salary
+- Performance Score
+- Overtime Status
+- Leave Balance
+- Job Satisfaction
+- Attrition Status
+- Education Level
+- Skill Level
+- Contact Information
+- Working Hours
+- Attendance Percentage
+
+---
+
+# 📊 Dataset Purpose
+This dataset is used for:
+
+- Employee performance analysis
+- HR decision making
+- Salary distribution analysis
+- Workforce demographics visualization
+- Attrition & retention analysis
+- Attendance monitoring
+- Department productivity tracking
+
+
+# Possible Visualizations
+Using this dataset, the dashboard can display:
+
+- Employee count by department
+- Salary comparison charts
+- Attrition rate analysis
+- Gender distribution
+- Performance trends
+- Attendance monitoring
+- Overtime analysis
+- Hiring trends over time
+
+---
+
+# Tools Used
+- Power BI
+- Excel
+- DAX
+- HR Analytics
+- Data Visualization
+
+---
+
+> “HR analytics: turning employee data into colorful charts since forever.” 💼📊
